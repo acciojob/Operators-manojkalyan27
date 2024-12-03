@@ -30,5 +30,5 @@ operation.addEventListener('click',()=>{
       result = "Invalid operator";
     }
 
-    document.getElementById("result").innerText = `Result: ${result}`;
+    document.getElementById("result").innerText = `${result}`;
 })
